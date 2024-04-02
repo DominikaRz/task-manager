@@ -1,0 +1,158 @@
+{
+    "items": [
+        {
+            "title": "Complete homework",
+            "type": "todo",
+            "description": "Finish math and science homework",
+            "date": "2022-04-01 18:00",
+            "completed": false
+        },
+        {
+            "title": "Call mom",
+            "type": "phone",
+            "description": "Check in on mom and see how she's doing",
+            "date": "2022-04-02 10:30",
+            "completed": false
+        },
+        {
+            "title": "Send email to boss",
+            "type": "email",
+            "description": "Follow up on project status",
+            "date": "2022-04-03 14:00",
+            "completed": false
+        },
+        {
+            "title": "Go for a run",
+            "type": "exercise",
+            "description": "Run 5 miles around the park",
+            "date": "2022-04-04 07:00",
+            "completed": false
+        },
+        {
+            "title": "Grocery shopping",
+            "type": "todo",
+            "description": "Buy milk, bread, eggs, and fruit",
+            "date": "2022-04-05 12:00",
+            "completed": false
+        },
+        {
+            "title": "Meet with team",
+            "type": "meeting",
+            "description": "Discuss project progress and next steps",
+            "date": "2022-04-06 15:30",
+            "completed": false
+        },
+        {
+            "title": "Call doctor",
+            "type": "phone",
+            "description": "Make appointment for check-up",
+            "date": "2022-04-07 11:00",
+            "completed": false
+        },
+        {
+            "title": "Buy birthday gift",
+            "type": "todo",
+            "description": "Find a gift for friend's birthday",
+            "date": "2022-04-08 17:00",
+            "completed": false
+        },
+        {
+            "title": "Send proposal",
+            "type": "email",
+            "description": "Email proposal to client",
+            "date": "2022-04-09 09:00",
+            "completed": false
+        },
+        {
+            "title": "Yoga class",
+            "type": "exercise",
+            "description": "Attend yoga class at gym",
+            "date": "2022-04-10 10:00",
+            "completed": false
+        },
+        {
+            "title": "Buy plane tickets",
+            "type": "todo",
+            "description": "Purchase tickets for summer vacation",
+            "date": "2022-04-11 14:00",
+            "completed": false
+        },
+        {
+            "title": "Schedule meeting with client",
+            "type": "email",
+            "description": "Find a time that works for both parties",
+            "date": "2022-04-12 11:30",
+            "completed": false
+        },
+        {
+            "title": "Email Bob",
+            "type": "email",
+            "description": "Send follow-up email to Bob",
+            "date": "2022-04-15 09:30",
+            "completed": false
+        },
+        {
+            "title": "Morning Run",
+            "type": "exercise",
+            "description": "Go for a 5-mile run in the park",
+            "date": "2022-04-16 06:00",
+            "completed": false
+        },
+        {
+            "title": "Team Meeting",
+            "type": "meeting",
+            "description": "Attend weekly team meeting",
+            "date": "2022-04-18 11:00",
+            "completed": false
+        },
+        {
+            "title": "Call Sarah",
+            "type": "phone",
+            "description": "Call Sarah to discuss project updates",
+            "date": "2022-04-20 15:00",
+            "completed": false
+        },
+        {
+            "title": "Grocery Shopping",
+            "type": "todo",
+            "description": "Buy groceries for the week",
+            "date": "2022-04-22 12:00",
+            "completed": false
+        },
+        {
+            "title": "Finish Report",
+            "type": "todo",
+            "description": "Complete final report for the project",
+            "date": "2022-04-24 18:00",
+            "completed": false
+        },
+        {
+            "title": "Lunch with Jane",
+            "type": "meeting",
+            "description": "Meet with Jane for lunch to discuss project",
+            "date": "2022-04-26 12:30",
+            "completed": false
+        },
+        {
+            "title": "Call Mom",
+            "type": "phone",
+            "description": "Call Mom to catch up",
+            "date": "2022-04-28 10:00",
+            "completed": false
+        },
+        {
+            "title": "Evening Yoga",
+            "type": "exercise",
+            "description": "Attend yoga class in the evening",
+            "date": "2022-04-30 18:30",
+            "completed": false
+        },
+        {
+            "title": "Follow-up with Client",
+            "type": "email",
+            "description": "Send follow-up email to Client regarding meeting",
+            "date": "2022-05-02 09:00",
+            "completed": false
+        }
+    ]
+}
